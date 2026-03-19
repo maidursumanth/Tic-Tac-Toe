@@ -20,9 +20,9 @@ JavaScript – Game logic and interactivity
 📂 Project Structure<br>
 tic-tac-toe/<br>
 │
-├── index.html     # Main HTML file<br>
-├── style.css     # Styling file<br>
-└── script.js     # Game logic<br>
+├── index.html<br>     
+├── style.css<br>    
+└── script.js<br>
 ▶️ How to Run<br>
 
 Download or clone the repository:<br>
