@@ -20,7 +20,7 @@ JavaScript – Game logic and interactivity
 📂 Project Structure<br>
 tic-tac-toe/<br>
 │
-├── index.html     
+ index.html     
 ├── style.css    
 └── script.js<br> 
 ▶️ How to Run <br>
