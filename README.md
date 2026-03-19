@@ -49,8 +49,7 @@ Make it mobile responsive
 
 📸 Screenshot <br>
 
-![image alt](<img width="1133" height="898" alt="image" src="https://github.com/user-attachments/assets/f2edafa7-9fbf-4e01-a4af-b7664719ffd8" />
-)<br>
+![image alt](https://github.com/maidursumanth/Tic-Tac-Toe/blob/a4ce30d3b05d6ebfd1d9b12a359f089c18962461/Screenshot%202026-03-19%20134549.png)<br>
 
 📌 Author<br>
 
