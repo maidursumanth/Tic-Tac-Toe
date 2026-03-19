@@ -49,7 +49,7 @@ Make it mobile responsive
 
 📸 Screenshot <br>
 
-Screenshot 2026-03-19 134549.png <br>
+![image alt](Screenshot 2026-03-19 134549.png)<br>
 
 📌 Author<br>
 
