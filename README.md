@@ -53,7 +53,9 @@ Add a screenshot of your game here<br>
 
 📌 Author<br>
 
-   Sumanth<br>
+Sumanth<br>
+Frontend Developer (Learning Phase)<br>
+GitHub: https://github.com/maidursumanth<br>
 
 ⭐ Support<br>
 
