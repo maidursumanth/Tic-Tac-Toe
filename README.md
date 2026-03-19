@@ -49,7 +49,8 @@ Make it mobile responsive
 
 📸 Screenshot <br>
 
-![image alt](Screenshot 2026-03-19 134549.png)<br>
+![image alt](<img width="1133" height="898" alt="image" src="https://github.com/user-attachments/assets/f2edafa7-9fbf-4e01-a4af-b7664719ffd8" />
+)<br>
 
 📌 Author<br>
 
