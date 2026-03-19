@@ -20,15 +20,14 @@ JavaScript – Game logic and interactivity
 📂 Project Structure<br>
 tic-tac-toe/<br>
 │
-├── index.html <br>    # Main HTML file<br>
-├── style.css <br>     # Styling file<br>
-└── script.js <br>     # Game logic<br>
+├── index.html     # Main HTML file<br>
+├── style.css     # Styling file<br>
+└── script.js     # Game logic<br>
 ▶️ How to Run<br>
 
 Download or clone the repository:<br>
 
-git clone https://github.com/your-username/tic-tac-toe.git<br>
-
+git clone https://github.com/maidursumanth/Tic-Tac-Toe/tree/main <br>
 Open the project folder<br>
 Run the game:<br>
 Open index.html in any browser<br>
