@@ -22,7 +22,7 @@ tic-tac-toe/<br>
 │
 ├── index.html     
 ├── style.css    
-└── script.js 
+└── script.js<br> 
 ▶️ How to Run <br>
 
 Download or clone the repository:<br>
